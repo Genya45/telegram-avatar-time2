@@ -1,0 +1,18 @@
+Начинать всегда стоит с того, что сеет сомнения
+I'll be back
+Hasta la vista, baby
+Vivere est cogitare
+lorem ipsum
+Cogito, ergo sum
+Ālea iacta est
+Ego sum qui sum
+Errare humanum est
+Хто любить Бога, той нехай любить і брата свого
+Не свідчи неправдиво проти твого ближнього
+Люби ближнього твого, як себе самого
+Спочатку було слово...
+Краще слухати осуд мудрого, ніж пісню дурня
+Де немає небезпеки, не може бути і слави
+ModuleNotFoundError: no module Python Error
+((long)old_end & pagemask) == 0)' failed
+quote: "${this.quote}"

@@ -4,6 +4,6 @@
 Для успішного запуску необхідно:
 
    0. Запускати на ubuntu, перевірено на 20.04
-   1. У файлі config/config.py змінити реквізити api на свої. Свої реквізити можна отримати за інструкцією https://docs.telethon.dev/en/latest/basic/signing-in.html
+   1. У файлі config/config.py змінити реквізити api на свої. Свої реквізити можна отримати за інструкцією https://docs.telethon.dev/en/stable/basic/signing-in.html (login page: https://my.telegram.org/)
    2. У файлі main.py виправити часовий пояс за промовчанням
    3. sudo./run.sh. Дотримуватися інструкцій
